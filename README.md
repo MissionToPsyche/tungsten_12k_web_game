@@ -8,6 +8,8 @@ This Unity project is a captivating 2D game inspired by the NASA Psyche mission.
 - **Sai**
 - **Harsha**
 - **Liam**
+- **John**
+- **Zain**
 
 ## Project Overview
 
