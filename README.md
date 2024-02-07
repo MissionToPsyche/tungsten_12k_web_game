@@ -14,9 +14,10 @@ This Unity project is a captivating 2D game inspired by the NASA Psyche mission.
 ## Project Overview
 
 **Game Mechanics:**
-- **Level 1:** A drag-and-drop challenge based on the NASA Psyche mission.
-- **Level 2:** A maze where players must collect the appropriate components.
-- **Level 3:** Trivia questions related to the mission, where players select the correct answer from multiple choices.
+- **Level 1:** A single player trivia challenge based on the NASA Psyche mission.
+- **Level 2:** A multiplayer option where users can play the trivia game with groups of 2 to 8 people.
+- **Level 3:** A true/false level where players need to answer the questions under a time limit.
+- **Level 4:** A closeup game where users are presented with a closeup pictures of the instruments related to the Psyche mission and they need to identify the name of the instrument
 
 ## Acknowledgements
 
